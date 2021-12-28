@@ -6,5 +6,6 @@ This is a simple visulaisation of times table to draw some cool looking mathemat
 
 <br>
 Resources:<br>
+
 [Times Tables, Mandelbrot and the Heart of Mathematics](https://www.youtube.com/watch?v=qhbuKbxJsk8&vl=en)<br>
-[Times Tables Cardioid Visualization](https://www.youtube.com/watch?v=bl3nc_a1nvs)<br>
+[Coding Challenge #133: Times Tables Cardioid Visualization](https://www.youtube.com/watch?v=bl3nc_a1nvs)<br>
